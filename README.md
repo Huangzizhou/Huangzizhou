@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zizhou Huang</h1>
-<h3 align="center">A PhD Student at New York University</h3>
+<h3 align="center">I recently graduated as a PhD from New York University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangzizhou&label=Profile%20views&color=0e75b6&style=flat" alt="huangzizhou" /> </p>
 
-- 🔭 I’m currently working on [Differentiable Simulations](https://github.com/Huangzizhou/DiffIPC-data)
+- 🔭 My research
 
-- 👨‍💻 All of my projects are available at [https://cims.nyu.edu/~zh1476/](https://cims.nyu.edu/~zh1476/)
+- 👨‍💻 All of my projects are available at [https://huangzizhou.github.io](https://huangzizhou.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
