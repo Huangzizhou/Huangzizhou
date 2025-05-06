@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangzizhou&label=Profile%20views&color=0e75b6&style=flat" alt="huangzizhou" /> </p>
 
-- 🔭 My research
+- 🔭 My research focuses on physics simulations and geometry processing.
 
 - 👨‍💻 All of my projects are available at [https://huangzizhou.github.io](https://huangzizhou.github.io)
 
