@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zizhou Huang</h1>
-<h3 align="center">I recently graduated as a PhD from New York University</h3>
+<h3 align="center">I am a senior software engineer at Roblox, working on layered clothing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangzizhou&label=Profile%20views&color=0e75b6&style=flat" alt="huangzizhou" /> </p>
 
